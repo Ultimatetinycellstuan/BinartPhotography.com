@@ -1,1 +1,7 @@
-dir_to_ignore/dist
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.idea

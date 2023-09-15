@@ -36,7 +36,7 @@
     "styletron-react": "6.0.2"
   },
   "devDependencies": {
-    "@iconify/icons-logos": "1.1.11",
+    "@iconify/icons-logos": "1.2.36",
     "@iconify/react": "3.1.0",
     "husky": "7.0.4",
     "lint-staged": "12.1.4",

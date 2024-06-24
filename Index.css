@@ -35,43 +35,7 @@ nav ul {
 nav li {
   margin-right: 20px;
 }
-body {
-  overflow-x: hidden;
-}
 
-/* CSS */
-header {
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  z-index: 100;
-  box-shadow: 2px 2px 9px grey;
-  padding: 1em -3em; /* increase vertical padding to 1.5em */
-}
-
-.logo {
-  margin-right: 20px;
-}
-
-.logo img {
-  width: 40px;
-  height: 40px;
-}
-
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-}
-
-nav li {
-  margin-right: 20px;
-}
 nav li:hover {
   background-color: #f7f7f7; /* light gray background on hover */
   cursor: pointer; /* change cursor to pointer on hover */
